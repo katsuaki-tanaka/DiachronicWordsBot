@@ -1,2 +1,1 @@
-# Diachronic Words Bot
-index.md です。
+タイムラインから、通時的対象と思われる単語を返すボットを作る予定です。
