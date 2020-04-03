@@ -1,1 +1,1 @@
-# smr-bot
+# Diachronic Words Bot
